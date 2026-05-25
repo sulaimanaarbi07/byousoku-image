@@ -10,12 +10,11 @@ A premium, lightweight Windows desktop application for lightning-fast image proc
 
 ## Download
 
-**[⬇ Download Latest Release](https://github.com/sulaimanaarbi07/byousoku-image/releases/latest)**
+**[⬇ Download Latest Release](https://drive.google.com/file/d/18eehb2MmoFWfcDXMnMMo8yDNsR6OlZUw/view?usp=sharing)**
 
 | Version | Format | Size |
 |---|---|---|
-| v2.0.0 | Windows Installer (.exe) | ~XX MB |
-| v2.0.0 | Portable (no install) | ~XX MB |
+| v2.0.0 | Windows Installer (.exe) | ~25 MB |
 
 ---
 
@@ -47,7 +46,7 @@ Process entire folders at once with multi-threaded execution (up to 8 workers). 
 ## Installation
 
 ### Installer (Recommended)
-1. Download the installer from [Releases](https://github.com/YOUR_USERNAME/byousoku-image/releases/latest)
+1. Download the installer from [Releases](https://drive.google.com/file/d/18eehb2MmoFWfcDXMnMMo8yDNsR6OlZUw/view?usp=sharing)
 2. Run the .exe installer
 3. Follow the setup wizard
 
