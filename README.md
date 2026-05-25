@@ -10,7 +10,7 @@ A premium, lightweight Windows desktop application for lightning-fast image proc
 
 ## Download
 
-**[⬇ Download Latest Release](https://github.com/YOUR_USERNAME/byousoku-image/releases/latest)**
+**[⬇ Download Latest Release](https://github.com/sulaimanaarbi07/byousoku-image/releases/latest)**
 
 | Version | Format | Size |
 |---|---|---|
